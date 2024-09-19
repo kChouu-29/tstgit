@@ -20,5 +20,6 @@ public class B1_BT2 {
         int point = sc.nextInt();
         System.out.println("Print your information................... ");
         System.out.println("Name :"+name +", Age: " +age+", Sex "+sex+", PhoneNumber "+phone+", Address "+address+", Point "+point);
+        System.out.println("Vừa thêm thành công rồi nhé")
     }
 }
